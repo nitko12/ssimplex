@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "time.h": "c",
+    "unordered_map": "cpp",
+    "ostream": "cpp",
+    "memory": "cpp",
+    "utility": "cpp",
+    "iostream": "cpp"
+  }
+}
